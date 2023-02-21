@@ -1,18 +1,14 @@
-
 ## Description Program
 
-Rancangan sebuah API dengan konsep REST menggunakan bahasa Go dan Framework Echo, dan PostgreSQL sebagai Database.
-
+Design an API with the concept of REST using Go language with Echo Framework, and PostgreSQL as a Database.
 
 ## Database Design
 
 ![App Screenshot](https://github.com/abduromanov2020/ibj-technical-test/blob/main/database-design.png)
 
-
 ## API Contract & Documentation
 
 https://documenter.getpostman.com/view/17874729/2s93CKPER6
-
 
 ## Environment Variables
 
@@ -21,7 +17,6 @@ To run this project, you will need to add the following environment variables to
 `DB_URL`
 
     postgres://postgres:[db_password]@localhost:[db_port]/[db_name]
-
 
 ## How to Run Program
 
@@ -52,7 +47,6 @@ To run this project, you will need to add the following environment variables to
 ```
 
 6. Use Postman collection to test it. Import the json into your Postman app, then send the message.
-
 
 ## Tech Stack
 
